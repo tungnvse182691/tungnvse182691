@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi 👋, I'm Nguyễn Văn Tùng
 
-<!--
-**tungnvse182691/tungnvse182691** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 .NET / C# Developer  
+💻 Interested in Backend Development & Web API  
+📍 Ho Chi Minh City, Vietnam  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- C#, .NET, ASP.NET Core
+- SQL Server, MySQL
+- Entity Framework Core
+- RESTful API
+- Git & GitHub
+- Unity (C# – basic)
+
+---
+
+### 📌 Projects
+- 🎮 2D Shooting Game (Unity, C#)
+- 🌐 ASP.NET Core Web API (CRUD)
+- 🗄️ Database Project (SQL Server)
+
+---
+
+### 📫 Contact
+- Email: nguyenvantung30052004@gmail.com
+- GitHub: https://github.com/tungnvse182691
