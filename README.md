@@ -1,28 +1,32 @@
-## Hi 👋, I'm Nguyễn Văn Tùng
+### Hi 👋, I'm Nguyễn Văn Tùng
 
-🎓 .NET / C# Developer  
-💻 Interested in Backend Development & Web API  
-📍 Ho Chi Minh City, Vietnam  
+👨‍💻 Software Developer
+🚀 Interested in Full-Stack Development, Software Architecture & Mobile Apps
+📍 Ho Chi Minh City, Vietnam
 
 ---
 
-### 🛠️ Tech Stack
-- C#, .NET, ASP.NET Core
-- SQL Server, MySQL
-- Entity Framework Core
-- RESTful API
-- Git & GitHub
-- Unity (C# – basic)
+### 🛠 Tech Stack
+
+*   **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core
+*   **Frontend & Mobile:** React, React Native, Flutter
+*   **Database & Cloud:** SQL Server, MySQL
+*   **Architecture & Tools:** RESTful API, Docker, Git & GitHub
+*   **Game Dev:** Unity (C# - basic)
 
 ---
 
 ### 📌 Projects
-- 🎮 2D Shooting Game (Unity, C#)
-- 🌐 ASP.NET Core Web API (CRUD)
-- 🗄️ Database Project (SQL Server)
+
+*   📱 **Cross-Platform Mobile Apps** (Flutter, React Native)
+*   🌐 **Modern Web Interfaces** (React)
+*   ⚙️ **ASP.NET Core Web API** (CRUD, RESTful Architecture)
+*   🗄️ **Database Project** (SQL Server)
+*   🎮 **2D Shooting Game** (Unity, C#)
 
 ---
 
-### 📫 Contact
-- Email: nguyenvantung30052004@gmail.com
-- GitHub: https://github.com/tungnvse182691
+### 📬 Contact
+
+*   Email: nguyenvantung30052004@gmail.com
+*   GitHub: https://github.com/tungnvse182691
