@@ -1,7 +1,9 @@
 ### Hi 👋, I'm Nguyễn Văn Tùng
 
 👨‍💻 Software Developer
+
 🚀 Interested in Full-Stack Development, Software Architecture & Mobile Apps
+
 📍 Ho Chi Minh City, Vietnam
 
 ---
