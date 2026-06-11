@@ -1,14 +1,14 @@
-### Hi 👋, I'm Nguyễn Văn Tùng
+### Hi , I'm Nguyễn Văn Tùng
 
-👨‍💻 Software Developer
+ Software Developer
 
-🚀 Interested in Full-Stack Development, Software Architecture & Mobile Apps
+ Interested in Full-Stack Development, Software Architecture & Mobile Apps. I'm on my journey to becoming a proficient full-stack Developer.
 
 📍 Ho Chi Minh City, Vietnam
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 
 *   **Backend:** C#, .NET, ASP.NET Core, Entity Framework Core
 *   **Frontend & Mobile:** React, React Native, Flutter
@@ -18,17 +18,17 @@
 
 ---
 
-### 📌 Projects
+###  Projects
 
-*   📱 **Cross-Platform Mobile Apps** (Flutter, React Native)
-*   🌐 **Modern Web Interfaces** (React)
-*   ⚙️ **ASP.NET Core Web API** (CRUD, RESTful Architecture)
-*   🗄️ **Database Project** (SQL Server)
-*   🎮 **2D Shooting Game** (Unity, C#)
+*    **Cross-Platform Mobile Apps** (Flutter, React Native)
+*    **Modern Web Interfaces** (React)
+*    **ASP.NET Core Web API** (CRUD, RESTful Architecture)
+*    **Database Project** (SQL Server)
+*    **2D Shooting Game** (Unity, C#)
 
 ---
 
-### 📬 Contact
+###  Contact
 
 *   Email: nguyenvantung30052004@gmail.com
 *   GitHub: https://github.com/tungnvse182691
